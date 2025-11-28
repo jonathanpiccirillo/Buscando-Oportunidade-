@@ -70,9 +70,8 @@ Busco uma oportunidade para **evoluir profissionalmente**, construir soluções 
 
 - Estruturas de Dados e Algoritmos  
 - Spring Boot (em início)  
-- SQL Avançado  
-- Boas práticas de versionamento  
-- Arquitetura e testes de API  
+- SQL Avançado ( em inicio )  
+- Boas práticas de versionamento   
 
 ---
 

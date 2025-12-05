@@ -47,17 +47,6 @@ Depois de anos trabalhando com atendimento, vendas e análise de processos, deci
 ### 🗄️ **Banco de Dados**
 - MySQL  
 - Oracle  
-- DBeaver  
-
-### 🐳 **Dev Tools**
-- Docker  
-- Git & GitHub  
-- Postman  
-- Visual Studio Code  
-- Pycharm  
-- Eclipse / IntelliJ  
-
----
 
 # 📌 Objetivo Profissional
 
